@@ -8,7 +8,7 @@ With the new version of chromedriver, problems with sign in may be faced. Follow
 If chrome isin't allowing to sign in then make a new gmail ID and try with that, or a different ID with which test browser has not yet been opened, or just clear all the cache of the existing ID (not reccomended).
 
 # Prerequisites
-Follow the following instructions to run the code in your local machine.
+Follow the following instructions to run the code in your local machine;
 
 ### Chromedriver
 Install the web driver using [Google ChromeDriver](https://chromedriver.chromium.org/) link. Unzip the file, copy the path of the folder and paste it in line 32 of the code. An example is given in the code itself.
